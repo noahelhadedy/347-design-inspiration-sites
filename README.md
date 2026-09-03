@@ -5,9 +5,9 @@
 [![Twitter](https://img.shields.io/badge/Twitter-@noahelhadedy-1DA1F2?logo=x&logoColor=white)](https://x.com/noahelhadedy)
 [![Instagram](https://img.shields.io/badge/Instagram-@noahelhadedy-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/noahelhadedy/)
 
-A curated list of 347+ design inspiration sites — galleries, pattern libraries, award showcases, and reference sources for web, product, and UI design. Bookmark them, steal like an artist, ship better work.
+A curated list of 348+ design inspiration sites — galleries, pattern libraries, award showcases, and reference sources for web, product, and UI design. Bookmark them, steal like an artist, ship better work.
 
-**Total:** 347 design inspiration sites.
+**Total:** 348 design inspiration sites.
 
 Part of the [Design Bookmark](https://designbookmark.com) resource directory. The full list is also available as [`design-inspiration-notion.csv`](design-inspiration-notion.csv) for importing into Notion or any spreadsheet tool.
 
@@ -364,6 +364,7 @@ Part of the [Design Bookmark](https://designbookmark.com) resource directory. Th
 | 345 | [Woz](https://www.wozcode.com/) | AI-driven platform for building and launching mobile apps without coding knowledge |
 | 346 | [Your Name In Landsat](https://science.nasa.gov/specials/your-name-in-landsat/) | Spell your name using stunning Landsat satellite imagery |
 | 347 | [Zen Browser](https://zen-browser.app/) | Privacy-first web browser with a focus on beautiful design and productivity. Easily customizable |
+| 348 | [BestSaaSWebDesigns](https://bestsaaswebdesigns.com/) | Curated gallery of SaaS site designs with auto-extracted screenshots, sections |
 
 ## Columns (CSV)
 
