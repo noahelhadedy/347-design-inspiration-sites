@@ -364,6 +364,7 @@ Part of the [Design Bookmark](https://designbookmark.com) resource directory. Th
 | 345 | [Woz](https://www.wozcode.com/) | AI-driven platform for building and launching mobile apps without coding knowledge |
 | 346 | [Your Name In Landsat](https://science.nasa.gov/specials/your-name-in-landsat/) | Spell your name using stunning Landsat satellite imagery |
 | 347 | [Zen Browser](https://zen-browser.app/) | Privacy-first web browser with a focus on beautiful design and productivity. Easily customizable |
+| 348 | [Design Details](https://designdetails.io/) | Curated websites with motion, browsable by sections, type and color |
 
 ## Columns (CSV)
 
